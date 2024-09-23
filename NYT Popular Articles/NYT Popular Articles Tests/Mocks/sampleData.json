@@ -1,0 +1,1246 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/06fbc270-5e87-56ec-836f-e82ff813828f",
+      "url": "https://www.nytimes.com/2024/09/20/opinion/springfield-haitian-migrants-ohio.html",
+      "id": 100000009706364,
+      "asset_id": 100000009706364,
+      "source": "New York Times",
+      "published_date": "2024-09-20",
+      "updated": "2024-09-20 21:37:06",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Haitian-Americans;Foreign Workers;Labor and Jobs;Presidential Election of 2024;Trump, Donald J;Vance, J D;Springfield (Ohio);Ohio",
+      "column": null,
+      "byline": "By Mike DeWine",
+      "type": "Article",
+      "title": "I’m the Republican Governor of Ohio. Here Is the Truth About Springfield.",
+      "abstract": "I have lived my entire life near this city. Our people and our history deserve better than to be falsely portrayed.",
+      "des_facet": [
+        "Haitian-Americans",
+        "Foreign Workers",
+        "Labor and Jobs",
+        "Presidential Election of 2024"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Vance, J D"
+      ],
+      "geo_facet": [
+        "Springfield (Ohio)",
+        "Ohio"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/21/opinion/20dewine-image/20dewine-image-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/21/opinion/20dewine-image/20dewine-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/21/opinion/20dewine-image/20dewine-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a60701f7-2fdd-522f-b30f-83c21d40ef74",
+      "url": "https://www.nytimes.com/2024/09/17/world/europe/france-rape-trial-dominique-pelicot.html",
+      "id": 100000009692819,
+      "asset_id": 100000009692819,
+      "source": "New York Times",
+      "published_date": "2024-09-17",
+      "updated": "2024-09-18 10:17:26",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Sex Crimes;Domestic Violence;Drug Abuse and Traffic;Pelicot, Dominique;Pelicot, Gisele;Avignon (France);France",
+      "column": null,
+      "byline": "By Catherine Porter",
+      "type": "Article",
+      "title": "‘She Didn’t Deserve This’: Husband Accused of Raping Wife Testifies in French Court",
+      "abstract": "Dominique Pelicot, who is accused of inviting strangers to rape his wife while she was drugged and unconscious, took the stand for the first time.",
+      "des_facet": [
+        "Sex Crimes",
+        "Domestic Violence",
+        "Drug Abuse and Traffic"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Pelicot, Dominique",
+        "Pelicot, Gisele"
+      ],
+      "geo_facet": [
+        "Avignon (France)",
+        "France"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gisèle Pelicot, center, the ex-wife of Dominique Pelicot, arriving at the Avignon courthouse with her lawyers on Tuesday.",
+          "copyright": "Christophe Simon/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17france-rape-trial-gzvj/17france-rape-trial-gzvj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17france-rape-trial-gzvj/17france-rape-trial-gzvj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17france-rape-trial-gzvj/17france-rape-trial-gzvj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/9b8c9f8e-9136-5cec-bf6d-5313409de7c9",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president.html",
+      "id": 100000009536697,
+      "asset_id": 100000009536697,
+      "source": "New York Times",
+      "published_date": "2024-06-24",
+      "updated": "2024-09-21 08:22:01",
+      "section": "U.S.",
+      "subsection": "2024 Elections",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;Polls and Public Opinion;Presidential Elections (US);internal-storyline;Biden, Joseph R Jr;Trump, Donald J;Harris, Kamala D;United States",
+      "column": null,
+      "byline": "",
+      "type": "Interactive",
+      "title": "Election 2024 Polls: Harris vs. Trump",
+      "abstract": "Our polling averages track the latest trends in the presidential race, using data from national and battleground state polls.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Polls and Public Opinion",
+        "Presidential Elections (US)",
+        "internal-storyline"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J",
+        "Harris, Kamala D"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/06/24/multimedia/promo-1719248120904/promo-1719248120904-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/24/multimedia/promo-1719248120904/promo-1719248120904-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/24/multimedia/promo-1719248120904/promo-1719248120904-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7ffaf746-b1dc-5933-b7b9-7df611261925",
+      "url": "https://www.nytimes.com/2024/09/14/health/medical-practices-treatments-patients.html",
+      "id": 100000009685774,
+      "asset_id": 100000009685774,
+      "source": "New York Times",
+      "published_date": "2024-09-14",
+      "updated": "2024-09-18 04:21:30",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Elderly;Medicine and Health;Dementia;Heart;Surgery and Surgeons;Spine (Body Part);Pain;Research;Feinstein Institutes for Medical Research",
+      "column": null,
+      "byline": "By Paula Span",
+      "type": "Article",
+      "title": "Three Medical Practices That Older Patients Should Question",
+      "abstract": "Some treatments and procedures become routine despite lacking strong evidence to show that they’re beneficial. Recent studies have called a few into question.",
+      "des_facet": [
+        "Elderly",
+        "Medicine and Health",
+        "Dementia",
+        "Heart",
+        "Surgery and Surgeons",
+        "Spine (Body Part)",
+        "Pain",
+        "Research"
+      ],
+      "org_facet": [
+        "Feinstein Institutes for Medical Research"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "John P. Dessereau",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/17/science/17sci-span-challenged-practices/17sci-span-challenged-practices-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/17/science/17sci-span-challenged-practices/17sci-span-challenged-practices-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/17/science/17sci-span-challenged-practices/17sci-span-challenged-practices-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d015e7af-2857-51d9-b63f-3a62777de3ca",
+      "url": "https://www.nytimes.com/2024/09/18/health/alcohol-cancer-young-adults.html",
+      "id": 100000009698339,
+      "asset_id": 100000009698339,
+      "source": "New York Times",
+      "published_date": "2024-09-18",
+      "updated": "2024-09-20 18:09:52",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "your-feed-science;Colon and Colorectal Cancer;Alcoholic Beverages;Deaths (Fatalities);Breast Cancer;Cancer;Digestive Tract;Esophageal Cancer;Heart;Research;Wines;Head and Neck Cancer;Breasts;Estrogen;Colon;American Assn for Cancer Research",
+      "column": null,
+      "byline": "By Roni Caryn Rabin",
+      "type": "Article",
+      "title": "Deep Links Between Alcohol and Cancer Are Described in New Report",
+      "abstract": "Scientists continue to rethink the idea that moderate drinking offers health benefits.",
+      "des_facet": [
+        "your-feed-science",
+        "Colon and Colorectal Cancer",
+        "Alcoholic Beverages",
+        "Deaths (Fatalities)",
+        "Breast Cancer",
+        "Cancer",
+        "Digestive Tract",
+        "Esophageal Cancer",
+        "Heart",
+        "Research",
+        "Wines",
+        "Head and Neck Cancer",
+        "Breasts",
+        "Estrogen",
+        "Colon"
+      ],
+      "org_facet": [
+        "American Assn for Cancer Research"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Excessive alcohol consumption increases the risk of six different types of cancer, but consumers are generally unaware.",
+          "copyright": "Karsten Moran for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18alcohol-cancer-jqbf/18alcohol-cancer-jqbf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18alcohol-cancer-jqbf/18alcohol-cancer-jqbf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18alcohol-cancer-jqbf/18alcohol-cancer-jqbf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1de4a49b-e84f-5424-a479-2575066f344d",
+      "url": "https://www.nytimes.com/2024/09/18/us/politics/republican-officials-harris-endorsement.html",
+      "id": 100000009702848,
+      "asset_id": 100000009702848,
+      "source": "New York Times",
+      "published_date": "2024-09-18",
+      "updated": "2024-09-18 22:58:12",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Endorsements;Letters;Harris, Kamala D;Trump, Donald J;Cohen, William S;Comstock, Barbara J;Hagel, Chuck;Negroponte, John D;Troye, Olivia;Webster, William H;Weld, William F;Zoellick, Robert B;Republican Party",
+      "column": null,
+      "byline": "By Peter Baker",
+      "type": "Article",
+      "title": "111 Former G.O.P. Officials Back Harris, Calling Trump ‘Unfit to Serve’",
+      "abstract": "The signatories of a letter endorsing the Democratic vice president included former members of Congress, defense secretaries, C.I.A. directors and other national security officials.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Endorsements",
+        "Letters"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Trump, Donald J",
+        "Cohen, William S",
+        "Comstock, Barbara J",
+        "Hagel, Chuck",
+        "Negroponte, John D",
+        "Troye, Olivia",
+        "Webster, William H",
+        "Weld, William F",
+        "Zoellick, Robert B"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 111 Republican signatories of a letter backing Vice President Kamala Harris included some who had not endorsed Joseph R. Biden Jr. against Donald J. Trump in the 2020 election.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18dc-endorse-htbg/18dc-endorse-htbg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18dc-endorse-htbg/18dc-endorse-htbg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18dc-endorse-htbg/18dc-endorse-htbg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/9679731e-8570-5204-a89d-105b29145d2c",
+      "url": "https://www.nytimes.com/interactive/2024/dining/best-nyt-cooking-recipes.html",
+      "id": 100000009686642,
+      "asset_id": 100000009686642,
+      "source": "New York Times",
+      "published_date": "2024-09-16",
+      "updated": "2024-09-18 11:30:12",
+      "section": "Food",
+      "subsection": "",
+      "nytdsection": "food",
+      "adx_keywords": "Cooking and Cookbooks;Recipes;vis-design;internal-open-access",
+      "column": null,
+      "byline": "By The New York Times Cooking",
+      "type": "Interactive",
+      "title": "The Best Recipes We've Ever Published, According to You",
+      "abstract": "For the 10th anniversary of NYT Cooking, we’ve collected recipes that racked up five-star ratings, topped our charts and went viral — plus a few that lit up the comments section.",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Recipes",
+        "vis-design",
+        "internal-open-access"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/16/dining/best-nyt-cooking-recipes-1726502478923/best-nyt-cooking-recipes-1726502478923-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/16/dining/best-nyt-cooking-recipes-1726502478923/best-nyt-cooking-recipes-1726502478923-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/16/dining/best-nyt-cooking-recipes-1726502478923/best-nyt-cooking-recipes-1726502478923-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4f7dd97f-7aff-53b3-a784-de92480bab97",
+      "url": "https://www.nytimes.com/2024/09/18/well/cancer-infections-vaccines-treatments.html",
+      "id": 100000009689366,
+      "asset_id": 100000009689366,
+      "source": "New York Times",
+      "published_date": "2024-09-18",
+      "updated": "2024-09-20 11:32:31",
+      "section": "Well",
+      "subsection": "",
+      "nytdsection": "well",
+      "adx_keywords": "Cancer;Human Papillomavirus (HPV);Hepatitis;Bacteria;Infections;Sexually Transmitted Diseases;Vaccination and Immunization;Digestive Tract;Disease Rates;Content Type: Service;American Assn for Cancer Research",
+      "column": null,
+      "byline": "By Nina Agrawal",
+      "type": "Article",
+      "title": "These Four Common Infections Can Cause Cancer",
+      "abstract": "A new report says that 13 percent of cancers are linked to bacteria or viruses. Vaccines and treatments offer powerful protection.",
+      "des_facet": [
+        "Cancer",
+        "Human Papillomavirus (HPV)",
+        "Hepatitis",
+        "Bacteria",
+        "Infections",
+        "Sexually Transmitted Diseases",
+        "Vaccination and Immunization",
+        "Digestive Tract",
+        "Disease Rates",
+        "Content Type: Service"
+      ],
+      "org_facet": [
+        "American Assn for Cancer Research"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/24/well/18WELL-CANCER-INFECTIONS1/18WELL-CANCER-INFECTIONS1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/24/well/18WELL-CANCER-INFECTIONS1/18WELL-CANCER-INFECTIONS1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/24/well/18WELL-CANCER-INFECTIONS1/18WELL-CANCER-INFECTIONS1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b8e27ab6-c83a-5c19-baaa-56792468f280",
+      "url": "https://www.nytimes.com/2024/09/17/world/trump-assassination-attempt-world-reaction.html",
+      "id": 100000009698221,
+      "asset_id": 100000009698221,
+      "source": "New York Times",
+      "published_date": "2024-09-17",
+      "updated": "2024-09-18 22:57:38",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "Presidential Election of 2024;United States International Relations;United States Politics and Government;Democracy (Theory and Philosophy);Politics and Government;Assassinations and Attempted Assassinations;Right-Wing Extremism and Alt-Right;Firearms;Trump, Donald J;Harris, Kamala D;Europe;France;Germany;Hungary;Great Britain;Italy;Mexico;Russia;Slovakia",
+      "column": null,
+      "byline": "By Roger Cohen",
+      "type": "Article",
+      "title": "Second Apparent Assassination Attempt on Trump Prompts Alarm Abroad",
+      "abstract": "There is widespread concern that the November election will not end well and that American democracy has frayed to the breaking point.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "United States International Relations",
+        "United States Politics and Government",
+        "Democracy (Theory and Philosophy)",
+        "Politics and Government",
+        "Assassinations and Attempted Assassinations",
+        "Right-Wing Extremism and Alt-Right",
+        "Firearms"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Harris, Kamala D"
+      ],
+      "geo_facet": [
+        "Europe",
+        "France",
+        "Germany",
+        "Hungary",
+        "Great Britain",
+        "Italy",
+        "Mexico",
+        "Russia",
+        "Slovakia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump speaking onstage during the Republican National Convention in Milwaukee in July as a photograph of the aftermath of an assassination attempt was emblazoned on a screen.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17trump-react-01-hfvl/17trump-react-01-hfvl-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17trump-react-01-hfvl/17trump-react-01-hfvl-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17trump-react-01-hfvl/17trump-react-01-hfvl-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7f4c430a-2a0b-5cfe-9b65-4eb79dd3a7dc",
+      "url": "https://www.nytimes.com/2024/09/14/upshot/parents-stress-murthy-warning.html",
+      "id": 100000009665976,
+      "asset_id": 100000009665976,
+      "source": "New York Times",
+      "published_date": "2024-09-14",
+      "updated": "2024-09-16 16:21:17",
+      "section": "The Upshot",
+      "subsection": "",
+      "nytdsection": "the upshot",
+      "adx_keywords": "Parenting;Families and Family Life;Anxiety and Stress;Surgeon General (US);Children and Childhood;Murthy, Vivek H",
+      "column": null,
+      "byline": "By Claire Cain Miller",
+      "type": "Article",
+      "title": "Today’s Parents: ‘Exhausted, Burned Out and Perpetually Behind’",
+      "abstract": "The surgeon general is warning about parents’ stress, a sign that intensive parenting may have become too intense for parents.",
+      "des_facet": [
+        "Parenting",
+        "Families and Family Life",
+        "Anxiety and Stress",
+        "Surgeon General (US)",
+        "Children and Childhood"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Murthy, Vivek H"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the United States, parenthood is often solitary, and parents are much more likely than nonparents to say they feel lonely and stressed.",
+          "copyright": "Rebecca Gratz for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/14/multimedia/14parents-HP-mpbv/14parents-HP-mpbv-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/14/multimedia/14parents-HP-mpbv/14parents-HP-mpbv-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/14/multimedia/14parents-HP-mpbv/14parents-HP-mpbv-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d3da59c8-aa98-5fc1-b2a6-30b04ef15528",
+      "url": "https://www.nytimes.com/2024/09/17/science/lunar-eclipse-supermoon.html",
+      "id": 100000009693175,
+      "asset_id": 100000009693175,
+      "source": "New York Times",
+      "published_date": "2024-09-17",
+      "updated": "2024-09-17 14:09:37",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Eclipses;Moon;Sun;Space and Astronomy;Solar System",
+      "column": null,
+      "byline": "By Katrina Miller",
+      "type": "Article",
+      "title": "A Supermoon and Lunar Eclipse Will Light Up and Darken Tuesday’s Night Sky",
+      "abstract": "Earth’s shadow will partially cover one of the biggest and brightest full moons this year.",
+      "des_facet": [
+        "Eclipses",
+        "Moon",
+        "Sun",
+        "Space and Astronomy",
+        "Solar System"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A partial lunar eclipse over Sana, Yemen, last October.",
+          "copyright": "Yahya Arhab/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17eclipse-supermoon-vjkl/17eclipse-supermoon-vjkl-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17eclipse-supermoon-vjkl/17eclipse-supermoon-vjkl-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17eclipse-supermoon-vjkl/17eclipse-supermoon-vjkl-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/163e6525-d0d7-5213-9068-cc0add3315ae",
+      "url": "https://www.nytimes.com/2024/09/14/opinion/trump-debate-haitians-pets.html",
+      "id": 100000009686231,
+      "asset_id": 100000009686231,
+      "source": "New York Times",
+      "published_date": "2024-09-14",
+      "updated": "2024-09-15 11:25:56",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2024;Rumors and Misinformation;Haitian-Americans;Immigration and Emigration;Black People;Discrimination;Right-Wing Extremism and Alt-Right;United States Politics and Government;Food;Pets;United States International Relations;Trump, Donald J;Vance, J D;Harris, Kamala D;Springfield (Ohio);Haiti",
+      "column": null,
+      "byline": "By Lydia Polgreen",
+      "type": "Article",
+      "title": "Trump Has Crossed a Truly Unacceptable Line",
+      "abstract": "There is something particularly insidious about his claim that Haitian immigrants are eating household pets.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Rumors and Misinformation",
+        "Haitian-Americans",
+        "Immigration and Emigration",
+        "Black People",
+        "Discrimination",
+        "Right-Wing Extremism and Alt-Right",
+        "United States Politics and Government",
+        "Food",
+        "Pets",
+        "United States International Relations"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Vance, J D",
+        "Harris, Kamala D"
+      ],
+      "geo_facet": [
+        "Springfield (Ohio)",
+        "Haiti"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ioulex for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/15/multimedia/14polgreen-qzwp/14polgreen-qzwp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/15/multimedia/14polgreen-qzwp/14polgreen-qzwp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/15/multimedia/14polgreen-qzwp/14polgreen-qzwp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/798dea3e-eb06-5738-9f08-8e0c9fc2c8c1",
+      "url": "https://www.nytimes.com/2024/09/18/world/middleeast/israel-exploding-pagers-hezbollah.html",
+      "id": 100000009704258,
+      "asset_id": 100000009704258,
+      "source": "New York Times",
+      "published_date": "2024-09-18",
+      "updated": "2024-09-20 09:57:30",
+      "section": "World",
+      "subsection": "Middle East",
+      "nytdsection": "world",
+      "adx_keywords": "Bombs and Explosives;Wireless Communications;Iran-Israel Proxy Conflict;Espionage and Intelligence Services;Nasrallah, Hassan;Hezbollah;Israel;Lebanon",
+      "column": null,
+      "byline": "By Sheera Frenkel, Ronen Bergman and Hwaida Saad",
+      "type": "Article",
+      "title": "How Israel Built a Modern-Day Trojan Horse: Exploding Pagers",
+      "abstract": "The Israeli government did not tamper with the Hezbollah devices that exploded, defense and intelligence officials say. It manufactured them as part of an elaborate ruse.",
+      "des_facet": [
+        "Bombs and Explosives",
+        "Wireless Communications",
+        "Iran-Israel Proxy Conflict",
+        "Espionage and Intelligence Services"
+      ],
+      "org_facet": [
+        "Hezbollah"
+      ],
+      "per_facet": [
+        "Nasrallah, Hassan"
+      ],
+      "geo_facet": [
+        "Israel",
+        "Lebanon"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hezbollah supporters on Wednesday mourning the deaths of four comrades killed in the explosions.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18hezbollah-reconstruct-01-wqfm/18hezbollah-reconstruct-01-wqfm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18hezbollah-reconstruct-01-wqfm/18hezbollah-reconstruct-01-wqfm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18hezbollah-reconstruct-01-wqfm/18hezbollah-reconstruct-01-wqfm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/31e9c2ec-f4bf-5375-a647-a8413d29979a",
+      "url": "https://www.nytimes.com/2024/09/15/obituaries/michaela-deprince-dead.html",
+      "id": 100000009692830,
+      "asset_id": 100000009692830,
+      "source": "New York Times",
+      "published_date": "2024-09-15",
+      "updated": "2024-09-16 23:28:27",
+      "section": "Obituaries",
+      "subsection": "",
+      "nytdsection": "obituaries",
+      "adx_keywords": "Dancing;Deaths (Obituaries);Adoptions;Orphans and Orphanages;DePrince, Michaela;Dance Theater of Harlem;Dutch National Ballet",
+      "column": null,
+      "byline": "By Alex Traub",
+      "type": "Article",
+      "title": "Michaela DePrince, War Orphan Turned Leading Ballerina, Dies at 29",
+      "abstract": "In an impoverished orphanage in Sierra Leone, she longed to dance ballet. After being adopted by American parents, her improbable dream came true.",
+      "des_facet": [
+        "Dancing",
+        "Deaths (Obituaries)",
+        "Adoptions",
+        "Orphans and Orphanages"
+      ],
+      "org_facet": [
+        "Dance Theater of Harlem",
+        "Dutch National Ballet"
+      ],
+      "per_facet": [
+        "DePrince, Michaela"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michaela DePrince in 2015. She had lead roles in such major ballets as “The Nutcracker” and “Coppelia,” and was a soloist in “Cinderella” and George Balanchine’s “Tarantella.”",
+          "copyright": "Michel deGroot for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/17/multimedia/15deprince-obit-kgqv-print1/15deprince-obit-kgqv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/17/multimedia/15deprince-obit-kgqv-print1/15deprince-obit-kgqv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/17/multimedia/15deprince-obit-kgqv-print1/15deprince-obit-kgqv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7579ff4e-85ed-5a81-9207-87c1be14dfbe",
+      "url": "https://www.nytimes.com/2024/09/20/business/media/olivia-nuzzi-rfk-jr.html",
+      "id": 100000009708046,
+      "asset_id": 100000009708046,
+      "source": "New York Times",
+      "published_date": "2024-09-20",
+      "updated": "2024-09-20 22:26:00",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "Conflicts of Interest;Presidential Election of 2024;News and News Media;Magazines;Nuzzi, Olivia;Kennedy, Robert F Jr;New York (Magazine)",
+      "column": null,
+      "byline": "By Katie Robertson",
+      "type": "Article",
+      "title": "Olivia Nuzzi, New York Magazine Writer, Put on Leave Over R.F.K. Jr. Relationship",
+      "abstract": "Ms. Nuzzi told her editors about the relationship that had turned personal, the outlet said. A representative for Mr. Kennedy said the pair had met only once.",
+      "des_facet": [
+        "Conflicts of Interest",
+        "Presidential Election of 2024",
+        "News and News Media",
+        "Magazines"
+      ],
+      "org_facet": [
+        "New York (Magazine)"
+      ],
+      "per_facet": [
+        "Nuzzi, Olivia",
+        "Kennedy, Robert F Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olivia Nuzzi arriving for the White House Correspondents’ Association dinner in Washington in 2023.",
+          "copyright": "Stefani Reynolds/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20Nuzzi-RFT-fhtq/20Nuzzi-RFT-fhtq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20Nuzzi-RFT-fhtq/20Nuzzi-RFT-fhtq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20Nuzzi-RFT-fhtq/20Nuzzi-RFT-fhtq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/cebfa693-4e7c-5d05-96fd-15a2ced0a2c7",
+      "url": "https://www.nytimes.com/2024/09/15/opinion/parenting-helicopter-ignoring.html",
+      "id": 100000009677803,
+      "asset_id": 100000009677803,
+      "source": "New York Times",
+      "published_date": "2024-09-15",
+      "updated": "2024-09-15 15:10:09",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Parenting;Children and Childhood;Boredom",
+      "column": null,
+      "byline": "By Darby Saxbe",
+      "type": "Article",
+      "title": "Parents Should Ignore Their Children More Often",
+      "abstract": "The case for “mindful underparenting.”",
+      "des_facet": [
+        "Parenting",
+        "Children and Childhood",
+        "Boredom"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brittany Marcoux",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/15/opinion/15saxbeNEW/15saxbeNEW-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/15/opinion/15saxbeNEW/15saxbeNEW-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/15/opinion/15saxbeNEW/15saxbeNEW-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/cc725f64-fa8f-5832-8e23-46bafb74c9ae",
+      "url": "https://www.nytimes.com/2024/09/16/arts/music/sean-combs-diddy-indicted.html",
+      "id": 100000009447280,
+      "asset_id": 100000009447280,
+      "source": "New York Times",
+      "published_date": "2024-09-16",
+      "updated": "2024-09-19 12:27:53",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Sex Crimes;Human Trafficking;Rap and Hip-Hop;Rhythm and Blues (Music);#MeToo Movement;Combs, Sean;Bad Boy Entertainment",
+      "column": null,
+      "byline": "By Ben Sisario and Julia Jacobs",
+      "type": "Article",
+      "title": "Sean Combs Arrested in Manhattan After Grand Jury Indictment",
+      "abstract": "The music mogul has been under mounting scrutiny since a 2023 lawsuit by his former girlfriend, Cassie, accused him of sex trafficking and years of abuse. Mr. Combs’s representatives called him an “innocent man.”",
+      "des_facet": [
+        "Sex Crimes",
+        "Human Trafficking",
+        "Rap and Hip-Hop",
+        "Rhythm and Blues (Music)",
+        "#MeToo Movement"
+      ],
+      "org_facet": [
+        "Bad Boy Entertainment"
+      ],
+      "per_facet": [
+        "Combs, Sean"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sean Combs helped bring hip-hop to the masses as an executive and artist.",
+          "copyright": "Doug Peters/STAR MAX, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/05/03/multimedia/00diddy-arrest-tfhc/00diddy-arrest-tfhc-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/05/03/multimedia/00diddy-arrest-tfhc/00diddy-arrest-tfhc-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/05/03/multimedia/00diddy-arrest-tfhc/00diddy-arrest-tfhc-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b82062f8-9637-5652-879d-de3312f62330",
+      "url": "https://www.nytimes.com/2024/09/15/us/politics/trump-shooting-golf-course.html",
+      "id": 100000009692960,
+      "asset_id": 100000009692960,
+      "source": "New York Times",
+      "published_date": "2024-09-15",
+      "updated": "2024-09-17 08:40:36",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;Assassinations and Attempted Assassinations;United States Politics and Government;Trump, Donald J;Routh, Ryan Wesley;West Palm Beach (Fla)",
+      "column": null,
+      "byline": "By Patricia Mazzei, Jonathan Swan, Maggie Haberman, Adam Goldman and Glenn Thrush",
+      "type": "Article",
+      "title": "Trump Safe After What F.B.I. Describes as an Assassination Attempt",
+      "abstract": "The Federal Bureau of Investigation said it was investigating what appeared to be a second assassination attempt on former President Donald J. Trump.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Assassinations and Attempted Assassinations",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Routh, Ryan Wesley"
+      ],
+      "geo_facet": [
+        "West Palm Beach (Fla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sheriff Ric Bradshaw of Palm Beach County held a photo showing items belonging to a suspected gunman at a golf course where former President Donald J. Trump was playing Sunday.",
+          "copyright": "Saul Martinez for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/15/us/politics/15election-live-shooting-new/15election-live-shooting-new-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/15/us/politics/15election-live-shooting-new/15election-live-shooting-new-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/15/us/politics/15election-live-shooting-new/15election-live-shooting-new-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/72105f70-9654-5ff5-afec-436d97ece0d5",
+      "url": "https://www.nytimes.com/2024/09/17/world/middleeast/israel-hezbollah-pagers-explosives.html",
+      "id": 100000009699240,
+      "asset_id": 100000009699240,
+      "source": "New York Times",
+      "published_date": "2024-09-17",
+      "updated": "2024-09-18 13:14:10",
+      "section": "World",
+      "subsection": "Middle East",
+      "nytdsection": "world",
+      "adx_keywords": "Iran-Israel Proxy Conflict;Israel-Gaza War (2023- );Bombs and Explosives;Hezbollah;Israel;Lebanon;Iran",
+      "column": null,
+      "byline": "By Sheera Frenkel and Ronen Bergman",
+      "type": "Article",
+      "title": "Israel Planted Explosives in Pagers Sold to Hezbollah, Officials Say",
+      "abstract": "Small amounts of explosive were implanted in beepers that Hezbollah had ordered from a Taiwanese company, according to American and other officials briefed on the operation.",
+      "des_facet": [
+        "Iran-Israel Proxy Conflict",
+        "Israel-Gaza War (2023- )",
+        "Bombs and Explosives"
+      ],
+      "org_facet": [
+        "Hezbollah"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Israel",
+        "Lebanon",
+        "Iran"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/92eb41c6-af52-5e9f-8be5-2e53650460f6",
+      "url": "https://www.nytimes.com/2024/09/18/science/titan-disaster-hearing-crew-deaths-theories.html",
+      "id": 100000009703476,
+      "asset_id": 100000009703476,
+      "source": "New York Times",
+      "published_date": "2024-09-18",
+      "updated": "2024-09-19 21:46:58",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "your-feed-science;Submarines and Submersibles;Maritime Accidents and Safety;Deaths (Fatalities);Nargeolet, Paul-Henri (1946-2023);OceanGate Expeditions (Argus Expeditions Ltd);United States Coast Guard",
+      "column": null,
+      "byline": "By William J. Broad and Nicholas Bogel-Burroughs",
+      "type": "Article",
+      "title": "Titan Disaster Hearing Upends Earlier Expert Theories on Crew Deaths",
+      "abstract": "Two days of reporting and testifying by experts during a U.S. Coast Guard inquiry challenge the idea that the submersible’s passengers knew they were facing death.",
+      "des_facet": [
+        "your-feed-science",
+        "Submarines and Submersibles",
+        "Maritime Accidents and Safety",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [
+        "OceanGate Expeditions (Argus Expeditions Ltd)",
+        "United States Coast Guard"
+      ],
+      "per_facet": [
+        "Nargeolet, Paul-Henri (1946-2023)"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An image, released by the U.S. Coast Guard and Pelagic Research Services, of the tail cone of the Titan submersible resting at the bottom of the ocean.",
+          "copyright": "U.S. Coast Guard and Pelagic Research Services, via Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18titan-crew-cqbp/18titan-crew-cqbp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18titan-crew-cqbp/18titan-crew-cqbp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18titan-crew-cqbp/18titan-crew-cqbp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
